@@ -1,0 +1,21 @@
+body {
+  background-color: #b8a9c9;
+}
+
+hr {
+  background-color: inherit;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #8d9db6;
+  border-width: thick;
+  width: 50%;
+}
+
+h1 {
+font-family: "Times New Roman", Times, serif;
+  color: #800037;
+}
+
+h3 {
+  color: #800037;
+}
